@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-##About me
+<h4> About me </h4>
 
 Hi! I'm Israel Hernández Galicia, a Frontend Developer from Mexico focused on creating smooth and efficient web experiences, with a strong emphasis on design patterns and scalable architectures. I graduated as a Computer Systems Engineer (2024) and I'm currently pursuing my second degree in Software Engineering, specializing in Cybersecurity.
 
