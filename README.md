@@ -19,7 +19,7 @@ I have strong expertise in TypeScript, working primarily with Next.js and React 
   - more design patterns
 - I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read books, 🖌️ do painting and skecthing, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="humandev.01@outlook.com">humandev.01@outlook.com</a> <a href="motocycle9719@hotmail.com">motocycle9719@hotmail.com</a>
+- 📫 Reach out to me at: <a href="humandev.01@outlook.com">humandev.01@outlook.com</a>
 
 ## My Skills Include
 
